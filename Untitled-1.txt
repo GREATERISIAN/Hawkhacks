@@ -1,0 +1,4 @@
+Steps: 1. Word Cloud thing.
+2. Put Word Cloud thing onto mongoDB
+3. Get a search thing to seach that.
+4. Make a website you can do the searching on.
